@@ -1,0 +1,12 @@
+.image {
+  height: 100px;
+  width: 100px;
+  border-radius: 10px;
+}
+.heading {
+  font-size: 20px;
+}
+.List-container {
+  display: flex;
+  flex-direction: column;
+}
